@@ -13,10 +13,10 @@ now you need to use this command `ln -s nvim-linux64/lib/nvim/ nvim`
 
 now open nvim `./nvim`
 
-if nvim open you do it now you need some simle things
+If nvim open now you need to do the last steps
 
 ## setup the the path for nvim 
-you can use any path you want I chose `.local/bin` in home
+you can use any path you want I choose `.local/bin` in home
 after you chose the path you need to tell the linux you will use it
 use any text editer you want and open this path `.bashrc` like this `my-text-editer ~/.bashrc`
 and add this line 
