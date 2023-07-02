@@ -45,6 +45,6 @@ mv nvim ~/.local/bin/
 ```
 Close the terminal and open it again to apply the changes to the PATH environment variable.
 
-Now you can open Neovim by simply typing nvim in the terminal.
+Now you can open *Neovim* by simply typing `nvim` in the terminal.
 
-With these steps, you should have successfully installed and set up the latest version of Neovim on your Ubuntu system. Happy coding!
+With these steps, you should have successfully installed and set up the latest version of ***Neovim*** on your Ubuntu system. Happy coding!
