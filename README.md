@@ -7,7 +7,7 @@ https://github.com/neovim/neovim/releases
 
 after download the file you need to extract the file
 use this command `tar xzvf nvim-linux64.tar.gz`
-don't forgot delet the `nvim-linux64.tar.gz` afte the extract
+don't forgot delete the `nvim-linux64.tar.gz` afte the extract
 
 now you need to use this command `ln -s nvim-linux64/lib/nvim/ nvim`
 
